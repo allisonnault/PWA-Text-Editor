@@ -1,10 +1,9 @@
 {
-  "name": "client",
-  "version": "1.0.0",
-  "description": "",
-  "main": "src-sw.js",
+  "name": "pwa-text-editor",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "webpack-dev-server",
+    "build": "webpack --mode production",
+    "start": "webpack --watch"
   },
   "keywords": [],
   "author": "",
