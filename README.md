@@ -94,5 +94,8 @@ For questions check out my GitHub profile [allisonnault](https://www.github.com/
 
 Or you can email me at [allisonrnault@gmail.com](mailto:allisonrnault@gmail.com)
 
+![loadimage](./images/JATEscreenshot.png)
 
-[!load page]('./')
+![application storage](./images/JATEscreenshot2.png)
+
+![application manifest](./images/JATEscreenshot3.png)
